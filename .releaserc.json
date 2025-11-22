@@ -1,6 +1,6 @@
 {
 
-  "branches": ["prod", {"name": "alpha", "prerelease": true}],
+  "branches": ["main", {"name": "alpha", "prerelease": true}],
 
   "plugins": [
     "@semantic-release/commit-analyzer",
